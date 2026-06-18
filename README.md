@@ -1,4 +1,4 @@
-# IFN647 Assignment 2: Document Ranking Models
+# Document Ranking Models
 
 This repository contains the implementation and evaluation of three Information Retrieval (IR) models designed to rank documents in specific datasets according to their corresponding topics.
 
